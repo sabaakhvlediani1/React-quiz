@@ -1,0 +1,35 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero-section {
+    margin: 20px 0;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+  }
+  
+  .hero-text {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .gallery-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .gallery-button:hover {
+    background-color: #0056b3;
+  }
+  
