@@ -1,6 +1,6 @@
 
-![Screenshot 2024-06-11 171741](https://github.com/sabaakhvlediani1/React-quiz/assets/74502365/46f38191-fb68-44a1-bcad-a7929a141a2d)
 ![Screenshot 2024-06-11 171726](https://github.com/sabaakhvlediani1/React-quiz/assets/74502365/b9ebf32f-5232-4168-bc44-ba33c970d388)
+![Screenshot 2024-06-11 171741](https://github.com/sabaakhvlediani1/React-quiz/assets/74502365/46f38191-fb68-44a1-bcad-a7929a141a2d)
 ![Screenshot 2024-06-11 171753](https://github.com/sabaakhvlediani1/React-quiz/assets/74502365/54cc9980-24f7-4aad-86f6-5efb4366894a)
 
 # Getting Started with Create React App
